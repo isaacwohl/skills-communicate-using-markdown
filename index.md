@@ -8,3 +8,7 @@
 ``` javascript
 var myVar = "Hello world!";
 ``` 
+- [x] This item is complete 
+- [ ] Turn on GitHub Pages 
+- [ ] Outline my portfolio 
+- [ ] Introduce myself 
