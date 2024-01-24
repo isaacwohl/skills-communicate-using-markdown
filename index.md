@@ -4,3 +4,4 @@
 #### This is a medium-small header 
 ##### This is a small-ish header 
 ###### This is a small header 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png) 
